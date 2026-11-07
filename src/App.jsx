@@ -41,7 +41,7 @@ function App() {
 
 
   return (
-    <div className="min-h-screen bg-gray-50 p-4 sm:p-8 flex flex-col items-center justify-center font-sans">
+    <div className="min-h-screen bg-gray-50 p-4 sm:p-8 flex flex-col items-center overflow-y-auto font-sans">
       <div className="w-full max-w-md mx-auto">
         <h1 className="text-3xl sm:text-4xl font-bold text-gray-800 mb-6 text-center">
           Chuck Norris Jokes
